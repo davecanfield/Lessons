@@ -43,7 +43,7 @@ For this class use your github username(s) for your `<branch_name>` (example: in
 
 - `git checkout -b <branch_name>`
 
-#### ***Make changes to your Repo***
+#### --------------- ***Make changes to your Repo*** ---------------
 
 #### 5 - Stage
 - `git add .`
