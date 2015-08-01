@@ -7,4 +7,6 @@
 | ![alt text](http://s22.postimg.org/fafx1m9o1/Sammy.jpg "Something fun")                                             | Example                     | stuff@gmail.com               | 312-555-1234 |
 | ![alt text](http://s17.postimg.org/87q3whohb/Photo_on_8_1_15_at_3_54_PM.jpg "This can get confusing")                                             | Elias Miranda                  | eliasmiranda.la@gmail.com            | 847-418-6482 |
 | ![alt text](http://s16.postimg.org/6ond5e1f9/IMG_1415.jpg "My Favorite Hut")                                             | Danna Dotson                  | ddotson102@aol.com            | 773-793-5449|
-| no photo  |  Daisy                      | zavaladaisy412@gmail.com      | 312-823-5489|
+| ![alt text](http://s14.postimg.org/aqr6y445t/8f367c646895cf538e56d15e0d904c0f.jpg "Dave is Calmer Than This")                                             | Dave Canfield                  | dave.twitchfilm@gmail.com            | 872-237-4742|
+
+http://s14.postimg.org/aqr6y445t/8f367c646895cf538e56d15e0d904c0f.jpg
